@@ -28,8 +28,8 @@ The goal of this project is to explore and analyze sales data, providing valuabl
 - **Discount Impact on Sales** 🔍: Evaluate how discount rates affect total sales and profit margins.
 
 ### 3. **Customer & Geographic Dashboard** 🌍
-- **Customer Segmentation** 👥: Visualize customers by segment (e.g., Corporate, Small Business).
-- **Sales by Region** 📍: A heatmap displaying sales performance across different geographic locations.
+- **Customer Segmentation** 👥: Visualize customers by segment .
+- **Sales by Region** 📍:  displaying sales performance across different geographic locations.
 - **Top Customers by Revenue** 🏆: Lists the top revenue-generating customers.
 ---
 
@@ -72,7 +72,7 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 ### **2. Dim Customer Table** 👥
 - Customer ID
 - Customer Name
-- Customer Segment (e.g., Corporate, Small Business)
+- Customer Segment 
 - City
 - State
 - Region
@@ -82,11 +82,9 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 - Product Name
 - Category (Technology, Furniture, Office Supplies)
 - Sub-Category
-- Price
-
 ### **4. Ship Mode Table** 🚚
 - Ship Mode ID
-- Ship Mode Name (e.g., Standard, Express, Same-Day)
+- Ship Mode Name ( Standard Class, First Class,Second Class, Same-Day)
 
 ### **5. Dim Date Table** 📅
 - Date ID
@@ -102,7 +100,7 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 
 ## ⚙️ Tools Used
 
-- **Excel** 📊: For clean and transform raw data into usable tables, creating pivot tables, charts,establish relationships between the Orders, Customers, Products, Ship Mode,                 and Date tables and performing data analysis.
+- **Excel** 📊: For clean and transform raw data into usable tables, creating pivot tables, charts,establish relationships between the Orders, Customers, Products, Ship Mode, and Date tables and performing data analysis.
 ---
 
 ## 📸 Demo
