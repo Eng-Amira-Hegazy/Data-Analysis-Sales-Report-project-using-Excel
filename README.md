@@ -15,7 +15,22 @@ The goal of this project is to explore and analyze sales data, providing valuabl
 - Understand customer demographics and purchasing behaviors.
 - Identify top-selling products and evaluate revenue growth.
 - Assess shipping modes and their efficiency.
+## 📊 Visuals & Dashboards
 
+### 1. **Sales Dashboard** 📊
+- **Total Sales by Product Category** 💼: Compare sales of **Technology**, **Furniture**, and **Office Supplies**.
+- **Sales Trends** 📅: Monthly and quarterly sales breakdown over time.
+- **Top-Selling Products** 🥇: Highlights the highest revenue-generating products.
+
+### 2. **Financial Dashboard** 💵
+- **Revenue, Profit, and Discounts** 📉: Analyze the relationship between revenue and discount rates.
+- **Profit by Product Category** 💼: Shows profitability across **Technology**, **Furniture**, and **Office Supplies**.
+- **Discount Impact on Sales** 🔍: Evaluate how discount rates affect total sales and profit margins.
+
+### 3. **Customer & Geographic Dashboard** 🌍
+- **Customer Segmentation** 👥: Visualize customers by segment (e.g., Corporate, Small Business).
+- **Sales by Region** 📍: A heatmap displaying sales performance across different geographic locations.
+- **Top Customers by Revenue** 🏆: Lists the top revenue-generating customers.
 ---
 
 ## 📊 Visuals & Reports
@@ -100,11 +115,13 @@ Here are some screenshots of the **Excel** sales report:
 ### Sales Dashboard
 ![Sales Dashboard](https://your-image-link.png)
 
-### Product Performance by Category
-![Product Performance](https://your-image-link.png)
 
-### Customer Insights & Segmentation
-![Customer Insights](https://your-image-link.png)
+### Financial Dashboard
+![Financial dashboard](https://financial_dashboard.png)
+
+
+### Customer & Geographic Dashboard
+![Customer & Geographic Dashboard](https://your-image-link.png)
 
 ---
 
