@@ -116,5 +116,5 @@ Here are some screenshots of the **Excel** sales report:
 ![Financial Dashboard](financial_dashboard.png)
 
 ### Customer & Geographic Dashboard
-![Customer & Geographic Dashboard](your-image-link.png)
+![Customer & Geographic Dashboard](gemography_dashboard.png)
 
