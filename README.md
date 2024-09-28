@@ -110,23 +110,11 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 Here are some screenshots of the **Excel** sales report:
 
 ### Sales Dashboard
-![Sales Dashboard](https://sales_dashboard.png)
-
+![Sales Dashboard](https://your-image-link.png)
 
 ### Financial Dashboard
-![Financial dashboard](https://financial_dashboard.png)
-
+![Financial Dashboard](https://your-image-link.png)
 
 ### Customer & Geographic Dashboard
-![Customer & Geographic Dashboard](https://gemography_dashboard.png)
-
----
-Here are some screenshots of the **Power BI** dashboard:
-
-### Sales Dashboard
-![Sales Dashboard](cookie_sales_dashsboard.png)
-
-### Customer Insights
-![Demographics Dashboard](cookie_Demographics.png)
-
+![Customer & Geographic Dashboard](https://your-image-link.png)
 
