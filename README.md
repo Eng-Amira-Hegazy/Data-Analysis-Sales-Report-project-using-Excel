@@ -1,4 +1,4 @@
-# Data-Analysis-Sales-Report-project-using-Excel
+
 # 📊 Excel Data Analysis: Sales Report Project
 
 
@@ -121,7 +121,7 @@ Here are some screenshots of the **Excel** sales report:
 
 
 ### Customer & Geographic Dashboard
-![Customer & Geographic Dashboard](https://your-image-link.png)
+![Customer & Geographic Dashboard](https://gemography_dashboard.png)
 
 ---
 
