@@ -102,10 +102,7 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 
 ## ⚙️ Tools Used
 
-- **Excel** 📊: For creating pivot tables, charts, and performing data analysis.
-- **Power Query** 🛠️: Used to clean and transform raw data into usable tables.
-- **Data Model** 🔗: To establish relationships between the Orders, Customers, Products, Ship Mode, and Date tables.
-  
+- **Excel** 📊: For clean and transform raw data into usable tables, creating pivot tables, charts,establish relationships between the Orders, Customers, Products, Ship Mode,                 and Date tables and performing data analysis.
 ---
 
 ## 📸 Demo
@@ -125,8 +122,4 @@ Here are some screenshots of the **Excel** sales report:
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/sales-report-excel.git
