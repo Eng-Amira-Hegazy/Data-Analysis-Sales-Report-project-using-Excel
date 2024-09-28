@@ -110,7 +110,7 @@ The project uses a **Star Schema** with dimension tables and a fact table to cre
 Here are some screenshots of the **Excel** sales report:
 
 ### Sales Dashboard
-![Sales Dashboard](cookie_sales_dashsboard.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ### Financial Dashboard
 ![Financial Dashboard](financial_dashboard.png)
