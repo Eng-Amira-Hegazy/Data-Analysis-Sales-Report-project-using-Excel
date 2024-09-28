@@ -121,5 +121,12 @@ Here are some screenshots of the **Excel** sales report:
 ![Customer & Geographic Dashboard](https://gemography_dashboard.png)
 
 ---
+Here are some screenshots of the **Power BI** dashboard:
+
+### Sales Dashboard
+![Sales Dashboard](cookie_sales_dashsboard.png)
+
+### Customer Insights
+![Demographics Dashboard](cookie_Demographics.png)
 
 
